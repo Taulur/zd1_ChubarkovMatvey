@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\chubarkov2\\zd2_chubarkovmatvey-main\\zd2_chubarkovmatvey-main\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\winformsapp1\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\winformsapp1\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\winformsapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\winformsapp1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F330008-8E4D-4C5E-A30F-F0BF7CBE16D3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Playlist.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Playlist.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Playlist.cs",
+              "RelativeToolTip": "WinFormsApp1\\Playlist.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:48:26.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAhwFAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:21:29.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Song.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Song.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Song.cs",
+              "RelativeToolTip": "WinFormsApp1\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:46:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:41:45.928Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAlwB8BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:30:00.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Shop.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Shop.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Shop.cs",
+              "RelativeToolTip": "WinFormsApp1\\Shop.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:47:06.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Product.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Product.cs",
+              "ToolTip": "C:\\chubarkov2\\zd2_ChubarkovMatvey-main\\zd2_ChubarkovMatvey-main\\WinFormsApp1\\Product.cs",
+              "RelativeToolTip": "WinFormsApp1\\Product.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:43:49.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

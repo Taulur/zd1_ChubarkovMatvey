@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\chubarkov\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB24DCC7-86B5-429A-A070-EEC7CF6508F7}|ConsoleApp1\\ConsoleApp1.csproj|c:\\chubarkov\\consoleapp1\\consoleapp1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB24DCC7-86B5-429A-A070-EEC7CF6508F7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB24DCC7-86B5-429A-A070-EEC7CF6508F7}|ConsoleApp1\\ConsoleApp1.csproj|C:\\chubarkov\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB24DCC7-86B5-429A-A070-EEC7CF6508F7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cat.cs",
+              "DocumentMoniker": "C:\\chubarkov\\ConsoleApp1\\ConsoleApp1\\cat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\cat.cs",
+              "ToolTip": "C:\\chubarkov\\ConsoleApp1\\ConsoleApp1\\cat.cs",
+              "RelativeToolTip": "ConsoleApp1\\cat.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:15:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\chubarkov\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\chubarkov\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:15:34.152Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
